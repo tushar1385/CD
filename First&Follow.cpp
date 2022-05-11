@@ -96,3 +96,10 @@ ans.pop_back(); ans+="}"; cout<<ans<<'\n';
 return 0;
 }
 
+/*
+Enter the number of grammar: 4
+S->ACB|CbB|Ba
+A->da|bC
+B->g|e
+C->h|e
+*/
